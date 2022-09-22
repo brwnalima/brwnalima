@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brwnalima
+- 👋 Hi, I’m @brwna
 - 👀 I’m interested in tourism, languages and technology.
 - 🌱 I’m currently learning HTML, CSS & JavaScript.
 - 📫 How to reach me on LinkedIn: https://www.linkedin.com/bruna-lima-328b2323b/
