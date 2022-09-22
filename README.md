@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brwnalima
-- 👀 I’m interested in tourism, languages and tecnology.
+- 👀 I’m interested in tourism, languages and technology.
 - 🌱 I’m currently learning HTML, CSS & JavaScript.
 - 📫 How to reach me on LinkedIn: https://www.linkedin.com/bruna-lima-328b2323b/
 
