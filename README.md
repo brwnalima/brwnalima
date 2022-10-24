@@ -2,11 +2,11 @@
 <div>
  <h3 align="center">
     Chega mais! Sejam bem-vindos.
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
  </h3>
 </div>
 
 <div dsplay="inline-block" align="center">
+ <h4>Minhas redes sociais:</h4>
  <a href="https://www.linkedin.com/in/bruna-lima-328b2323b/" target="_blank">
     <img width="40px" src="https://cdn.icon-icons.com/icons2/2873/PNG/512/linkedin_pixel_logo_icon_181925.png" align="top" target="_blank">
  </a> 
@@ -41,7 +41,7 @@
  
 <div align='center'>
 
-## :chart_with_upwards_trend: Ferramentas que utilizo:
+## ⚒️: Ferramentas que utilizo:
 
 </div>
 
