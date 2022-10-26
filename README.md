@@ -1,9 +1,10 @@
 
 <div>
  <h3 align="center">
-    Chega mais! Sejam bem-vindos.
+    Chega mais! Sejam bem-vindos.<img src="https://thumbs.gfycat.com/JoyousLimpingAmericanbadger-max-1mb.gif" width="100">
  </h3>
 </div>
+
 
 <div dsplay="inline-block" align="center">
  <h4>Minhas redes sociais:</h4>
@@ -26,7 +27,8 @@
 
 <br>
 
-## :chart_with_upwards_trend: Minhas estatísticas
+   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brwnalima&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+</div>
 
 <div style="display: inline_block" align = "center">
   <a href="https://github.com/brwnalima">
@@ -34,7 +36,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brwnalima&layout=compact&langs_count=168&theme=chartreuse-dark"/>       
  <a href="https://git.io/streak-stats">
  
-   <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=brwnalima&theme=hacker"/> 
+   <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=brwnalima&theme=chartreuse-dark"/> 
  </div>
 
 </div>
