@@ -1,10 +1,5 @@
 
-<div>
- <h3 align="center">
-    Chega mais! Sejam bem-vindos.<img src="https://thumbs.gfycat.com/JoyousLimpingAmericanbadger-max-1mb.gif" width="100">
- </h3>
-</div>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=73bed9&size=35&center=true&vCenter=true&width=1000&lines=Chega+Mais!+Seja+Bem-vindo.:%29;+Sou+Bruna+Lima.+Tenho+22+anos.;Sou+graduanda+em+Turismo+e+eterna+aprendiz+de+tecnologia.)](https://git.io/typing-svg)
 
 <div dsplay="inline-block" align="center">
  <h4>Minhas redes sociais:</h4>
