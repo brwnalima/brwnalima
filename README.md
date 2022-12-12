@@ -43,19 +43,19 @@
 </div>
 
 
-<div style="display: inline_block" align = "center"><br>
+ <div style="display: inline_block" align = "center"><br>
 
-  <img align="center" alt="Bruna-JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Bruna-HTML" height="50" width="50"  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Bruna-CSS" height="40" width="50"         
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Bruna-Git" height="70" width="70"  
-    <img src="https://preview.redd.it/ejry4wslmps91.png?auto=webp&s=0a73622f522c40e8a9221463b5515ac73808b3a5" />
-  <img align="center" alt="Bruna-GitHub" height="70" width="70"
-    <img src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" />
-  <img align="center" alt="Bruna VsCode " height="70" width="70"
-    <img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png" />
+  <img align="center" alt="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="NODE JS" height="40" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png"/>
+  <img align="center" alt="Bruna-Git" height="40" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
+  <img align="center" alt="Bruna-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="Bruna-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img align="center" alt="Bruna-GitHub" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+  <img align="center" alt="Bruna VsCode " height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
+  <img align="center" alt="Bruna React " height="40" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
+  <img align="center" alt="Bruna Bootstrap" height="45" width="45" src="https://obscureproblemsandgotchas.com/wp-content/uploads/2018/06/bootstrap-stack-e1530246058846.png" />
+  <img align="center" alt="Bruna Vite" height="45" width="45" src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" />
             
 </div>
+
 
