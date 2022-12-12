@@ -1,13 +1,13 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=73bed9&size=35&center=true&vCenter=true&width=1000&lines=Chega+Mais!+Seja+Bem-vindo.:%29;+Sou+Bruna+Lima!+Tenho+22+anos.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Chega+Mais!+Seja+Bem-vindo.:%29;+Sou+Bruna+Lima!+Tenho+22+anos.)](https://git.io/typing-svg)
 
 <div dsplay="inline-block" align="center">
  <h4>Minhas redes sociais:</h4>
  <a href="https://www.linkedin.com/in/bruna-lima-328b2323b/" target="_blank">
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/2873/PNG/512/linkedin_pixel_logo_icon_181925.png" align="top" target="_blank">
+    <img width="40px" src="https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png" align="top" target="_blank">
  </a> 
  <a href="bruna.lima@edu.unirio.br">
-    <img width="40px" src="https://cdn.icon-icons.com/icons2/2873/PNG/512/google_pixel_logo_icon_181921.png" alt="email-gmail" align="top"/>
+    <img width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="email-gmail" align="top"/>
  </a>
 
 <div align='center'>
@@ -16,6 +16,7 @@
     target="_blank"
     style="text-decoration: none"
     href="https://github.com/brwnalima?tab=repositories"
+    color='white'
     >Veja meus projetos:</a>
   </h2>
 </div>
