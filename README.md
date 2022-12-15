@@ -23,17 +23,18 @@
 
 <br>
 
-   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brwnalima&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-</div>
-
-<div style="display: inline_block" align = "center">
+<div style="display: inline_flex" align = "center">
   <a href="https://github.com/brwnalima">
+   
+   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brwnalima&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brwnalima&layout=compact&langs_count=168&theme=chartreuse-dark"/>       
+
+[](https://github-readme-stats.vercel.app/api?username=brwnalima&show_icons=true&theme=chartreuse-dark)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brwnalima&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+   
+   
  <a href="https://git.io/streak-stats">
- 
    <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=brwnalima&theme=chartreuse-dark"/> 
- </div>
 
 </div>
  
