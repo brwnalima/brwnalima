@@ -29,8 +29,7 @@
    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brwnalima&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 
 
-[](https://github-readme-stats.vercel.app/api?username=brwnalima&show_icons=true&theme=chartreuse-dark)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brwnalima&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
    
    
  <a href="https://git.io/streak-stats">
